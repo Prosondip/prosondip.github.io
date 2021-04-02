@@ -91,7 +91,7 @@ let courses = {
 	'M466': new Course('Measure Theory', 'Measure', 'G'),
 
 	/* Physics */
-	'P201': new Course('Classical Mechanics I', 'CM I', 'F'),
+	'P206': new Course('Quantum Mechanics I', 'QM I', 'A'),
 	'P202': new Course('Mathematical Methods I', 'MMPhy I', 'I'),
 	'P207': new Course('Linear Optics', 'LinOpt', 'D'),
 	'P203': new Course('Electronics', 'Elec', 'A'),
